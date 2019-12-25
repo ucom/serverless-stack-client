@@ -1,4 +1,6 @@
 export default {
+  MAX_ATTACHMENT_SIZE: 5000000,
+  STRIPE_KEY: "pk_test_XPYKB0z8qwdVUpef4ifjlSe0",
   s3: {
     REGION: "eu-central-1",
     BUCKET: "ucom-notes-app-uploads"
